@@ -1,0 +1,4 @@
+# Exclude dataset only
+data/
+dementia/
+no_dementia/
